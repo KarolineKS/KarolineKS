@@ -11,6 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/KarolineKS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Estatistica GitHub Karol" />
+</a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
