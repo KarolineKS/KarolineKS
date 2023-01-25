@@ -1,6 +1,21 @@
-# Olá! Prazer eu sou a Karol 
+# Olá! Prazer eu sou a Karol <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
+## Bem-vindxs ao meu perfil no GitHub  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
 
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+##
+
+## Sobre mim 
+##
+<p>
+
+Prazer, me chamo Karoline Kohls Stangherlin, tenho 21 anos e sou natural de Santa Maria, Rio Grande do Sul, Brasil.
+
+Sou Desenvolvedora Web Front-end e tenho domínio com as tecnologias de , JavaScript, HTML / CSS, ES6, Git/GitHub, React e Redux. Atualmente estou me aprofundando mais na área de Back-end, aprendendo tecnologias como Node.Js, SQL, MongoDB, TypeScript e Docker. 
+
+Dessa forma, estou me desenvolvendo profissionalmente e pessoalmente para que assim,  eu consiga alcançar a minha tão sonhada vaga de Desenvolvedora Web no mercado de trabalho.</p>
 <!--
 
 - 🔭 I’m currently working on ...
@@ -26,8 +41,8 @@
 
 ## 🔧 Tecnologias e Ferramentas
 
-<div style="display: inline_block margin: 10px"><br>
-  <img  alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block, margin: 10px"><br>
+  <img style="width: 60" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Karol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  alt="Karol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img  alt="Karol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
