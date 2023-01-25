@@ -12,6 +12,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
+## Estatística do GitHub
 <div>
 <a href="https://github.com/KarolineKS">
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
@@ -20,9 +22,11 @@
 
 ##
 
-### 🔧 Tecnologias e Ferramentas
+![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
 
-<div style="display: inline_block"><br>
+## 🔧 Tecnologias e Ferramentas
+
+<div style="display: inline_block margin: 10px"><br>
   <img  alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Karol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  alt="Karol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,7 +37,7 @@
   <img  alt="Karol-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img  alt="Karol-Tailwindcss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img alt="Karol-Bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img  alt="Karol-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img  alt="Karol-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img  alt="Karol-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img  alt="Karol-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img  alt="Karol-npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
