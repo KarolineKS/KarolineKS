@@ -1,4 +1,7 @@
 ## Olá! Prazer eu sou a Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+<img src="images/imagem_com_tecnologias.jpeg" alt="imagem das tecnologias">
+
   ### Seja bem-vindx ao meu perfil GitHub 🙃
 
 ### 😁 Sobre mim 
@@ -25,10 +28,10 @@
 ### 📊 Atividade no GitHub
 <div style="display: inline_block,">
 <a href="https://github.com/KarolineKS">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
+  <img height='180em' width="50%" src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
 </a>
 <a href="https://github.com/KarolineKS">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
+  <img height='180em' width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
 </a>
 </div>
 
@@ -51,7 +54,7 @@
   <img  alt="Karol-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img  alt="Karol-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img  alt="Karol-npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
+  <img  alt="Karol-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
 </div>
 
 ##
