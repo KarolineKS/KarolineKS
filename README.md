@@ -7,8 +7,10 @@
  - 🚀 Impulsionada por novos desafios
  - 🎯 Motivada a cada dia me tornar a melhor versão de mim mesma
 
+##
+
 ### 💡 Vamos nos conectar
-<div style="display: inline_block, margin: 10px"><br>
+<div style="display: inline_block, margin: 10px">
   <a href="mailto:kkohlsstangherlin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email Karol" target="_blank"/>
@@ -17,6 +19,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Karol" target="_blank"/>
   </a>
 </div>
+
+##
 
 ### 📊 Atividade no GitHub
 <div style="display: inline_block,">
@@ -27,6 +31,8 @@
   <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
 </a>
 </div>
+
+##
 
 ### 🔧 Tecnologias e Ferramentas
 
@@ -47,6 +53,8 @@
   <img  alt="Karol-npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Gabriel-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
 </div>
+
+##
 
 ![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
 ##
