@@ -1,45 +1,34 @@
-# Olá! Prazer eu sou a Karol <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Olá! Prazer eu sou a Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  ### Seja bem-vindx ao meu perfil GitHub 🙃
 
-## Bem-vindxs ao meu perfil no GitHub  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+### 😁 Sobre mim 
+ - 🌱 Atualmente estudo Back-end na <a href="https://www.betrybe.com/">Trybe</a> 
+ - 🏞 Apaixonada por tecnologia, trekking, animais, natureza e viajar
+ - 🚀 Impulsionada por novos desafios
+ - 🎯 Motivada a cada dia me tornar a melhor versão de mim mesma
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+### 💡 Vamos nos conectar
+<div style="display: inline_block, margin: 10px"><br>
+  <a href="mailto:kkohlsstangherlin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Karol" target="_blank"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karoline-kohls-stangherlin-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Karol" target="_blank"/>
+  </a>
+</div>
 
-##
-
-## Sobre mim 
-##
-<p>
-
-Prazer, me chamo Karoline Kohls Stangherlin, tenho 21 anos e sou natural de Santa Maria, Rio Grande do Sul, Brasil.
-
-Sou Desenvolvedora Web Front-end e tenho domínio com as tecnologias de , JavaScript, HTML / CSS, ES6, Git/GitHub, React e Redux. Atualmente estou me aprofundando mais na área de Back-end, aprendendo tecnologias como Node.Js, SQL, MongoDB, TypeScript e Docker. 
-
-Dessa forma, estou me desenvolvendo profissionalmente e pessoalmente para que assim,  eu consiga alcançar a minha tão sonhada vaga de Desenvolvedora Web no mercado de trabalho.</p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##
-## Estatística do GitHub
-<div>
+### 📊 Atividade no GitHub
+<div style="display: inline_block,">
 <a href="https://github.com/KarolineKS">
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
 </a>
+<a href="https://github.com/KarolineKS">
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
+</a>
 </div>
 
-##
-
-![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
-
-## 🔧 Tecnologias e Ferramentas
+### 🔧 Tecnologias e Ferramentas
 
 <div style="display: inline_block, margin: 10px"><br>
   <img style="width: 60" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -56,6 +45,8 @@ Dessa forma, estou me desenvolvendo profissionalmente e pessoalmente para que as
   <img  alt="Karol-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img  alt="Karol-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img  alt="Karol-npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Gabriel-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
 </div>
 
+![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
 ##
