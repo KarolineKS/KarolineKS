@@ -4,6 +4,9 @@
 
   ### Seja bem-vindx ao meu perfil GitHub 🙃
 
+### 💻 Link para meu Portifólio Pessoal 
+<a>https://karolineks.github.io/</a>
+
 ### 😁 Sobre mim 
  - 🌱 Atualmente estudo Back-end na <a href="https://www.betrybe.com/">Trybe</a> 
  - 🏞 Apaixonada por tecnologia, trekking, animais, natureza e viajar
@@ -61,3 +64,4 @@
 
 ![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
 ##
+
