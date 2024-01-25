@@ -5,7 +5,7 @@
   ### Seja bem-vindx ao meu perfil GitHub 🙃
 
 ### 😁 Sobre mim 
- - 🌱 Atualmente estudo Back-end na <a href="https://www.betrybe.com/">Trybe</a> 
+ - 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na <a href="https://www.senacrs.com.br/unidade/78">Faculdade UniSenac - Pelotas</a> 
  - 🏞 Apaixonada por tecnologia, trekking, animais, natureza e viajar
  - 🚀 Impulsionada por novos desafios
  - 🎯 Motivada a cada dia me tornar a melhor versão de mim mesma
