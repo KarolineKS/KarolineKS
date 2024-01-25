@@ -4,6 +4,9 @@
 
   ### Seja bem-vindx ao meu perfil GitHub 🙃
 
+### 💻 Link para meu Portifólio Pessoal 
+<a>https://karolineks.github.io/</a>
+
 ### 😁 Sobre mim 
  - 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas na <a href="https://www.senacrs.com.br/unidade/78">Faculdade UniSenac - Pelotas</a> 
  - 🏞 Apaixonada por tecnologia, trekking, animais, natureza e viajar
@@ -28,10 +31,10 @@
 ### 📊 Atividade no GitHub
 <div style="display: inline_block,">
 <a href="https://github.com/KarolineKS">
-  <img height='180em' width="50%" src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Karol" />
 </a>
 <a href="https://github.com/KarolineKS">
-  <img height='180em' width="50%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
+  <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolineKS&theme=dracula" alt="Linguagens GitHub Karol" />
 </a>
 </div>
 
@@ -61,3 +64,4 @@
 
 ![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
 ##
+
